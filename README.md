@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanarya165
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... front end
+- 🌱 I’m currently learning ... frontEnd
 - 💞️ I’m looking to collaborate on ... ReactJS
 - 📫 How to reach me ... rohanarya@outlook.in
 -           😁 Thank you 😁
