@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... frontEnd
 - 💞️ I’m looking to collaborate on ... ReactJS
 - 📫 How to reach me ... rohanarya@outlook.in
+- 📱 How to contact me ... +918982037687
 -           😁 Thank you 😁
 
 <!---
